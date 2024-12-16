@@ -1,0 +1,66 @@
+가격 구간 0~1000 만원 검색 결과:
+
+가격 구간 3000~4000 만원 검색 결과:
+Found: Sonata Hybrid 31870000
+Found: Hyundai Grandure 37680000
+
+가격 구간 0~1000 만원 검색 결과:
+
+가격 구간 4000~5000 만원 검색 결과:
+Found: Grandure Hybrid 42910000
+
+가격 구간 1000~2000 만원 검색 결과:
+Found: Hyundai Avante 19750000
+
+가격 구간 3000~4000 만원 검색 결과:
+Found: Sonata Hybrid 31870000
+Found: Hyundai Grandure 37680000
+
+가격 구간 3000~4000 만원 검색 결과:
+Found: Sonata Hybrid 31870000
+Found: Hyundai Grandure 37680000
+
+가격 구간 0~1000 만원 검색 결과:
+
+가격 구간 3000~4000 만원 검색 결과:
+Found: Sonata Hybrid 31870000
+Found: Hyundai Grandure 37680000
+
+가격 구간 0~1000 만원 검색 결과:
+
+가격 구간 4000~5000 만원 검색 결과:
+Found: Grandure Hybrid 42910000
+
+가격 구간 1000~2000 만원 검색 결과:
+Found: Hyundai Avante 19750000
+
+가격 구간 3000~4000 만원 검색 결과:
+Found: Sonata Hybrid 31870000
+Found: Hyundai Grandure 37680000
+
+가격 구간 3000~4000 만원 검색 결과:
+Found: Sonata Hybrid 31870000
+Found: Hyundai Grandure 37680000
+
+가격 구간 0~1000 만원 검색 결과:
+
+가격 구간 3000~4000 만원 검색 결과:
+Found: Sonata Hybrid 31870000
+Found: Hyundai Grandure 37680000
+
+가격 구간 0~1000 만원 검색 결과:
+
+가격 구간 4000~5000 만원 검색 결과:
+Found: Grandure Hybrid 42910000
+
+가격 구간 1000~2000 만원 검색 결과:
+Found: Hyundai Avante 19750000
+
+가격 구간 3000~4000 만원 검색 결과:
+Found: Sonata Hybrid 31870000
+Found: Hyundai Grandure 37680000
+
+가격 구간 3000~4000 만원 검색 결과:
+Found: Sonata Hybrid 31870000
+Found: Hyundai Grandure 37680000
+

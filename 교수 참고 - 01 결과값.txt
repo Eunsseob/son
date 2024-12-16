@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\DS_MID_TEST\01.c 18:41:35 Oct 28 2024 15
+1 a
+2 b
+3 c
+4 d
+5 e
+6 f
+7 a
+8 g
+9 g
